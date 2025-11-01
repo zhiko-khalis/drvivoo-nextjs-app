@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "ingredients": "Ingredients",
+    "chocolate": "Chocolate",
+    "lollipops": "Lollipops",
+    "softchew": "Softchew",
+    "jelly": "Jelly",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "badge": "Premium Vitamin-Enriched Products",
+    "title": "Better Choice",
+    "description": "Discover Dr.VIVO's vitamin-rich treats — from chocolate bars to jellies — crafted to boost your health and satisfy your cravings.",
+    "vitaminEnriched": "Vitamin-Enriched",
+    "vitaminEnrichedDesc": "Every product packed with essential vitamins for your daily wellness",
+    "qualityAssured": "Quality Assured",
+    "qualityAssuredDesc": "Premium ingredients and rigorous quality control standards",
+    "deliciousTaste": "Delicious Taste",
+    "deliciousTasteDesc": "Health meets flavor in every bite of our products"
+  },
+  "about": {
+    "badge": "Our Story",
+    "title": "About Dr.VIVO",
+    "subtitle": "Better Choice, Swiss Quality",
+    "storyTitle": "Our Story",
+    "story": "Our journey with Dr. Vivo began in 2020, when we saw how many people were relying on unhealthy nutrition without realizing its impact on their health. We knew there had to be a better choice — one that was smart, safe, and enjoyable. <br /> Dr. Vivo is more than a brand; it's a professional and healthier way of life. Every product is carefully crafted, scientifically grounded, and designed to make wellness simple, effective, and joyful. <br /> From our first idea to our growing range of wellness lines, our mission remains clear: to bring health, happiness, and smarter nutrition into every life we touch.",
+    "missionTitle": "Our Mission",
+    "mission": "At Dr. Vivo, we make healthy living simple, effective, and enjoyable. Our goal is to empower every family with science-backed nutrition that builds strength, energy, and happiness every day.",
+    "visionTitle": "Our Vision",
+    "vision": "To redefine daily nutrition by blending science, innovation, and taste — creating a world where wellness is joyful, modern, and accessible to all.",
+    "healthFirst": "Health First",
+    "healthFirstDesc": "Every product is designed with your wellness in mind",
+    "premiumQuality": "Premium Quality",
+    "premiumQualityDesc": "High-grade ingredients and rigorous quality standards",
+    "scienceDriven": "Science-Driven",
+    "scienceDrivenDesc": "Formulated based on latest nutrition research",
+    "trustedBrand": "Trusted Brand",
+    "trustedBrandDesc": "Reliable products you can count on every day"
+  },
+  "ingredients": {
+    "badge": "Natural & Science-Backed",
+    "title": "🌿 Our Ingredients",
+    "description": "At Dr. VIVO, every formula is powered by nature and perfected by science. We carefully select every ingredient for purity, potency, and proven effectiveness — to help you live healthier, stronger, and more vibrant every day.",
+    "viewDetails": "View Details",
+    "keyIngredients": "Key Ingredients:",
+    "categories": {
+      "multivitamins": {
+        "title": "MultiVitamins & Minerals",
+        "description": "Balanced nutrition begins with the essentials. Dr. VIVO's complete blend of vitamins and minerals supports your daily energy, immunity, and overall well-being.",
+        "ingredients": [
+          "Vitamin A – Supports vision and immunity.",
+          "Vitamin C – Boosts immunity and antioxidant protection.",
+          "Vitamin D3 – Strengthens bones, muscles, and immunity.",
+          "B1 (Thiamine) – Supports energy production and nerve health.",
+          "B2 (Riboflavin) – Promotes healthy skin and energy metabolism.",
+          "B3 (Niacin) – Aids circulation, brain, and digestive health.",
+          "B5 (Pantothenic Acid) – Helps hormone production and reduces fatigue.",
+          "B6 (Pyridoxine) – Supports mood, protein metabolism, and brain function.",
+          "B7 (Biotin) – Promotes healthy hair, skin, and nails.",
+          "B9 (Folic Acid) – Essential for cell growth and red blood cell formation.",
+          "B12 (Cobalamin) – Supports nerves, brain function, and energy.",
+          "Zinc – Enhances immunity and skin health.",
+          "Calcium – Builds strong bones and teeth.",
+          "Magnesium – Reduces fatigue and supports muscles.",
+          "Iron – Supports blood and oxygen transport."
+        ]
+      },
+      "immunity": {
+        "title": "Immunity",
+        "description": "Stay protected and resilient every day. Dr. VIVO's immunity formulas strengthen your natural defenses and promote long-term wellness through clinically trusted nutrients and herbal extracts.",
+        "ingredients": [
+          "Vitamin C – Powerful antioxidant that supports immune defense.",
+          "Vitamin D3 – Enhances immune system function.",
+          "Zinc – Essential for immune cell activity and repair.",
+          "Elderberry – Rich in antioxidants for respiratory health.",
+          "Echinacea – Helps boost immune response and resistance."
+        ]
+      },
+      "sleep": {
+        "title": "Sleep & Calm",
+        "description": "For deep rest and peaceful nights. Dr. VIVO's Sleep & Calm blend helps your mind and body relax naturally, promoting healthy sleep cycles and emotional balance.",
+        "ingredients": [
+          "Lemon Balm – Promotes calmness and reduces stress.",
+          "Chamomile – Encourages relaxation and sleep quality.",
+          "Vitamin B6 – Supports melatonin production for better sleep.",
+          "Vitamin D3 – Helps regulate mood and sleep rhythm."
+        ]
+      },
+      "focus": {
+        "title": "Focus & Energy",
+        "description": "Power your mind and body. Dr. VIVO's Focus & Energy formula enhances concentration, endurance, and performance with scientifically backed nutrients for sustained vitality.",
+        "ingredients": [
+          "Vitamin D3 – Supports brain and energy metabolism.",
+          "Ginseng – Boosts focus, stamina, and mental clarity.",
+          "Vitamin B12 – Promotes energy and cognitive function.",
+          "Omega-3 – Supports memory and brain performance.",
+          "Magnesium – Reduces fatigue and supports muscle and nerve function."
+        ]
+      }
+    }
+  },
+  "products": {
+    "chocolate": {
+      "title": "Chocolate Line",
+      "subtitle": "Premium Chocolate Collection"
+    },
+    "lollipops": {
+      "title": "Lollipops Line",
+      "subtitle": "Sweet & Fun Collection"
+    },
+    "softchew": {
+      "title": "Softchew Line",
+      "subtitle": "Chewy Delights Collection"
+    },
+    "jelly": {
+      "title": "Jelly Line",
+      "subtitle": "Jelly Treats Collection"
+    },
+    "more": "More",
+    "detailedInfo": "Detailed information"
+  },
+  "footer": {
+    "description": "Premium vitamin-enriched products for your healthy lifestyle. Delicious wellness in every bite.",
+    "productLines": "Product Lines",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "ourStory": "Our Story",
+    "qualityStandards": "Quality Standards",
+    "careers": "Careers",
+    "contactUs": "Contact Us",
+    "copyright": "© 2025 Dr.VIVO. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "productNames": {
+    "chocobars": "Dr. Vivo Vitamin Chocobars",
+    "miniChocobars": "Dr. Vivo Mini Chocobars",
+    "chocoballsBlister": "Dr. Vivo Vitamin Chocoballs (Blister)",
+    "chocoballs": "Dr. Vivo chocoballs",
+    "chocoCream": "Dr. Vivo Vitamin ChocoCream (Tube)",
+    "lollipopsBig": "Vitamin Lollipops (Big Box)",
+    "lollipopsMini": "Vitamin Lollipops (Mini Box)",
+    "softchewBag": "Vitamin Softchew Bag",
+    "softchewCube": "Vitamin Softchew Cube",
+    "jellyBag": "Vitamin Jelly Bag"
+  },
+  "productDescriptions": {
+    "chocobars": "Smart nutrition in every bite.Rich chocolate blended with essential vitamins for daily energy and wellness.",
+    "miniChocobars": "Small bites, big benefits.Fun, tasty minis packed with vitamins — available in Multivitamin, Immunity, and Focus formulas.",
+    "chocoballsBlister": "Pop. Enjoy. Nourish.Convenient blister-packed chocoballs filled with vitamins for everyday health.",
+    "chocoballs": "Sweet taste.Smart nutrition.chocolate balls enriched with essential vitamins  made for kids and adults who love health in every bite.",
+    "chocoCream": "Spread the joy. Taste the health.Smooth chocolate cream infused with daily vitamins — fun, nutritious, and delicious.",
+    "lollipopsBig": "Premium hard candy lollipops enriched with essential vitamins and minerals, perfect for children and adults seeking a convenient daily dose of essential vitamins.",
+    "lollipopsMini": "Smart nutrition, compact size.Mini lollipops in Multivitamin, Immunity, and Focus formulas — each box includes a small gift for added delight.",
+    "softchewBag": "Chewy, convenient, and nutritious. Softchew candies packed with essential vitamins and minerals which is a tasty way to support daily health for all ages.",
+    "softchewCube": "softchews that delivering essential nutrients in a convenient, enjoyable format for daily use.",
+    "jellyBag": "Premium jelly candies formulated for daily wellness, available in Multivitamin & mineral , Sleep & Calm, Focus— presented in a professional showbox."
+  }
+}
+

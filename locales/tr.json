@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "ingredients": "İçerikler",
+    "chocolate": "Çikolata",
+    "lollipops": "Lolipop",
+    "softchew": "Yumuşak Çiğneme",
+    "jelly": "Jöle",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "badge": "Premium Vitamin Zenginleştirilmiş Ürünler",
+    "title": "Daha İyi Seçim",
+    "description": "Dr.VIVO'nun vitamin açısından zengin ürünlerini keşfedin — çikolata barlarından jölelere kadar — sağlığınızı artırmak ve isteklerinizi karşılamak için tasarlanmış.",
+    "vitaminEnriched": "Vitamin Zenginleştirilmiş",
+    "vitaminEnrichedDesc": "Her ürün günlük sağlığınız için gerekli vitaminlerle dolu",
+    "qualityAssured": "Kalite Garantili",
+    "qualityAssuredDesc": "Premium içerikler ve titiz kalite kontrol standartları",
+    "deliciousTaste": "Lezzetli Tat",
+    "deliciousTasteDesc": "Sağlık, ürünlerimizin her lokmasında lezzetle buluşuyor"
+  },
+  "about": {
+    "badge": "Hikayemiz",
+    "title": "Dr.VIVO Hakkında",
+    "subtitle": "Daha İyi Seçim, İsviçre Kalitesi",
+    "storyTitle": "Hikayemiz",
+    "story": "Dr. Vivo ile yolculuğumuz 2020'de başladı, pek çok insanın sağlıkları üzerindeki etkisini fark etmeden sağlıksız beslenmeye güvendiğini gördük. Daha iyi bir seçim olması gerektiğini biliyorduk — akıllı, güvenli ve keyifli olan bir seçim. <br /> Dr. Vivo bir markadan fazlasıdır; profesyonel ve daha sağlıklı bir yaşam tarzıdır. Her ürün özenle tasarlanmış, bilimsel temellere dayalı ve sağlığı basit, etkili ve neşeli hale getirmek için tasarlanmıştır. <br /> İlk fikrimizden büyüyen sağlık ürün yelpazemize kadar, misyonumuz açık kalıyor: dokunduğumuz her hayata sağlık, mutluluk ve daha akıllı beslenme getirmek.",
+    "missionTitle": "Misyonumuz",
+    "mission": "Dr. Vivo'da sağlıklı yaşamı basit, etkili ve keyifli hale getiriyoruz. Amacımız, her gün güç, enerji ve mutluluk inşa eden bilim destekli beslenme ile her aileyi güçlendirmektir.",
+    "visionTitle": "Vizyonumuz",
+    "vision": "Bilimi, yeniliği ve lezzeti harmanlayarak günlük beslenmeyi yeniden tanımlamak — sağlığın neşeli, modern ve herkes için erişilebilir olduğu bir dünya yaratmak.",
+    "healthFirst": "Sağlık Öncelikli",
+    "healthFirstDesc": "Her ürün sağlığınızı düşünerek tasarlanmıştır",
+    "premiumQuality": "Premium Kalite",
+    "premiumQualityDesc": "Yüksek kaliteli içerikler ve titiz kalite standartları",
+    "scienceDriven": "Bilim Destekli",
+    "scienceDrivenDesc": "En son beslenme araştırmalarına dayalı formüle edilmiştir",
+    "trustedBrand": "Güvenilir Marka",
+    "trustedBrandDesc": "Her gün güvenebileceğiniz güvenilir ürünler"
+  },
+  "ingredients": {
+    "badge": "Doğal ve Bilim Destekli",
+    "title": "🌿 İçeriklerimiz",
+    "description": "Dr. VIVO'da her formül doğa tarafından desteklenir ve bilim tarafından mükemmelleştirilir. Her içeriği saflık, güç ve kanıtlanmış etkinlik için özenle seçiyoruz — her gün daha sağlıklı, daha güçlü ve daha canlı yaşamanıza yardımcı olmak için.",
+    "viewDetails": "Detayları Görüntüle",
+    "keyIngredients": "Ana İçerikler:",
+    "categories": {
+      "multivitamins": {
+        "title": "Multi Vitaminler ve Mineraller",
+        "description": "Dengeli beslenme temellerle başlar. Dr. VIVO'nun vitamin ve mineral karışımı, günlük enerjinizi, bağışıklığınızı ve genel sağlığınızı destekler.",
+        "ingredients": [
+          "A Vitamini – Görme ve bağışıklığı destekler.",
+          "C Vitamini – Bağışıklığı ve antioksidan korumayı artırır.",
+          "D3 Vitamini – Kemikleri, kasları ve bağışıklığı güçlendirir.",
+          "B1 (Tiamin) – Enerji üretimini ve sinir sağlığını destekler.",
+          "B2 (Riboflavin) – Sağlıklı cilt ve enerji metabolizmasını destekler.",
+          "B3 (Niasin) – Dolaşım, beyin ve sindirim sağlığına yardımcı olur.",
+          "B5 (Pantotenik Asit) – Hormon üretimine yardımcı olur ve yorgunluğu azaltır.",
+          "B6 (Piridoksin) – Ruh hali, protein metabolizması ve beyin fonksiyonunu destekler.",
+          "B7 (Biotin) – Sağlıklı saç, cilt ve tırnakları destekler.",
+          "B9 (Folik Asit) – Hücre büyümesi ve kırmızı kan hücresi oluşumu için gereklidir.",
+          "B12 (Kobalamin) – Sinirleri, beyin fonksiyonunu ve enerjiyi destekler.",
+          "Çinko – Bağışıklığı ve cilt sağlığını artırır.",
+          "Kalsiyum – Güçlü kemikler ve dişler oluşturur.",
+          "Magnezyum – Yorgunluğu azaltır ve kasları destekler.",
+          "Demir – Kan ve oksijen taşınmasını destekler."
+        ]
+      },
+      "immunity": {
+        "title": "Bağışıklık",
+        "description": "Her gün korunun ve dirençli kalın. Dr. VIVO'nun bağışıklık formülleri, doğal savunmalarınızı güçlendirir ve klinik olarak güvenilir besinler ve bitkisel özler aracılığıyla uzun vadeli sağlığı destekler.",
+        "ingredients": [
+          "C Vitamini – Bağışıklık savunmasını destekleyen güçlü antioksidan.",
+          "D3 Vitamini – Bağışıklık sistemi fonksiyonunu artırır.",
+          "Çinko – Bağışıklık hücresi aktivitesi ve onarımı için gereklidir.",
+          "Mürver – Solunum sağlığı için antioksidan açısından zengin.",
+          "Ekinezya – Bağışıklık tepkisini ve direncini artırmaya yardımcı olur."
+        ]
+      },
+      "sleep": {
+        "title": "Uyku ve Sakinlik",
+        "description": "Derin dinlenme ve huzurlu geceler için. Dr. VIVO'nun Uyku ve Sakinlik karışımı, zihninizin ve bedeninizin doğal olarak rahatlamasına yardımcı olur, sağlıklı uyku döngülerini ve duygusal dengeyi destekler.",
+        "ingredients": [
+          "Melisa – Sakinliği destekler ve stresi azaltır.",
+          "Papatya – Rahatlamayı ve uyku kalitesini teşvik eder.",
+          "B6 Vitamini – Daha iyi uyku için melatonin üretimini destekler.",
+          "D3 Vitamini – Ruh halini ve uyku ritmini düzenlemeye yardımcı olur."
+        ]
+      },
+      "focus": {
+        "title": "Odaklanma ve Enerji",
+        "description": "Zihninizi ve bedeninizi güçlendirin. Dr. VIVO'nun Odaklanma ve Enerji formülü, bilimsel olarak desteklenen besinlerle konsantrasyonu, dayanıklılığı ve performansı artırır ve sürekli canlılık sağlar.",
+        "ingredients": [
+          "D3 Vitamini – Beyin ve enerji metabolizmasını destekler.",
+          "Ginseng – Odaklanmayı, dayanıklılığı ve zihinsel netliği artırır.",
+          "B12 Vitamini – Enerjiyi ve bilişsel fonksiyonu destekler.",
+          "Omega-3 – Hafızayı ve beyin performansını destekler.",
+          "Magnezyum – Yorgunluğu azaltır ve kas ve sinir fonksiyonunu destekler."
+        ]
+      }
+    }
+  },
+  "products": {
+    "chocolate": {
+      "title": "Çikolata Serisi",
+      "subtitle": "Premium Çikolata Koleksiyonu"
+    },
+    "lollipops": {
+      "title": "Lolipop Serisi",
+      "subtitle": "Tatlı ve Eğlenceli Koleksiyon"
+    },
+    "softchew": {
+      "title": "Yumuşak Çiğneme Serisi",
+      "subtitle": "Çiğneme Lezzetleri Koleksiyonu"
+    },
+    "jelly": {
+      "title": "Jöle Serisi",
+      "subtitle": "Jöle Lezzetleri Koleksiyonu"
+    },
+    "more": "Daha Fazla",
+    "detailedInfo": "Detaylı bilgi"
+  },
+  "footer": {
+    "description": "Sağlıklı yaşam tarzınız için premium vitamin zenginleştirilmiş ürünler. Her lokmada lezzetli sağlık.",
+    "productLines": "Ürün Serileri",
+    "company": "Şirket",
+    "aboutUs": "Hakkımızda",
+    "ourStory": "Hikayemiz",
+    "qualityStandards": "Kalite Standartları",
+    "careers": "Kariyer",
+    "contactUs": "İletişim",
+    "copyright": "© 2025 Dr.VIVO. Tüm hakları saklıdır.",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfService": "Hizmet Şartları",
+    "cookiePolicy": "Çerez Politikası"
+  },
+  "productNames": {
+    "chocobars": "Dr. Vivo Vitamin Çikolata Barları",
+    "miniChocobars": "Dr. Vivo Mini Çikolata Barları",
+    "chocoballsBlister": "Dr. Vivo Vitamin Çikolata Topları (Blister)",
+    "chocoballs": "Dr. Vivo Çikolata Topları",
+    "chocoCream": "Dr. Vivo Vitamin Çikolata Kreması (Tüp)",
+    "lollipopsBig": "Vitamin Lolipop (Büyük Kutu)",
+    "lollipopsMini": "Vitamin Lolipop (Mini Kutu)",
+    "softchewBag": "Vitamin Yumuşak Çiğneme Torbası",
+    "softchewCube": "Vitamin Yumuşak Çiğneme Küpü",
+    "jellyBag": "Vitamin Jöle Torbası"
+  },
+  "productDescriptions": {
+    "chocobars": "Her lokmada akıllı beslenme. Günlük enerji ve sağlık için gerekli vitaminlerle karıştırılmış zengin çikolata.",
+    "miniChocobars": "Küçük lokmalar, büyük faydalar. Vitaminlerle dolu eğlenceli, lezzetli miniler — Multi Vitamin, Bağışıklık ve Odaklanma formüllerinde mevcuttur.",
+    "chocoballsBlister": "Aç. Keyif al. Besle. Günlük sağlık için vitaminlerle dolu uygun blister paketli çikolata topları.",
+    "chocoballs": "Tatlı tat. Akıllı beslenme. Her lokmada sağlığı seven çocuklar ve yetişkinler için yapılmış gerekli vitaminlerle zenginleştirilmiş çikolata topları.",
+    "chocoCream": "Neşeyi yay. Sağlığı tat. Günlük vitaminlerle hazırlanmış pürüzsüz çikolata kreması — eğlenceli, besleyici ve lezzetli.",
+    "lollipopsBig": "Gerekli vitaminler ve minerallerle zenginleştirilmiş premium sert şeker lolipopları, günlük gerekli vitamin dozunu arayan çocuklar ve yetişkinler için mükemmeldir.",
+    "lollipopsMini": "Akıllı beslenme, kompakt boyut. Multi Vitamin, Bağışıklık ve Odaklanma formüllerinde mini lolipoplar — her kutu ek neşe için küçük bir hediye içerir.",
+    "softchewBag": "Çiğnenebilir, uygun ve besleyici. Tüm yaşlar için günlük sağlığı desteklemenin lezzetli bir yolu olan gerekli vitaminler ve minerallerle dolu yumuşak çiğneme şekerleri.",
+    "softchewCube": "Günlük kullanım için uygun, keyifli bir formatta gerekli besinleri sağlayan yumuşak çiğneme ürünleri.",
+    "jellyBag": "Günlük sağlık için formüle edilmiş premium jöle şekerleri, Multi Vitamin ve mineral, Uyku ve Sakinlik, Odaklanma formüllerinde mevcuttur — profesyonel bir vitrin kutusunda sunulur."
+  }
+}
+
