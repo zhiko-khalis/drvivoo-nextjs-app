@@ -136,13 +136,13 @@
     "cookiePolicy": "Cookie Policy"
   },
   "productNames": {
-    "chocobars": "Dr. Vivo Vitamin Chocobars",
-    "miniChocobars": "Dr. Vivo Mini Chocobars",
-    "chocoballsBlister": "Dr. Vivo Vitamin Chocoballs (Blister)",
-    "chocoballs": "Dr. Vivo chocoballs",
-    "chocoCream": "Dr. Vivo Vitamin ChocoCream (Tube)",
-    "lollipopsBig": "Vitamin Lollipops (Big Box)",
-    "lollipopsMini": "Vitamin Lollipops (Mini Box)",
+    "chocobars": "Chocobars",
+    "miniChocobars": "Mini Chocobars",
+    "chocoballsBlister": "Chocoballs (Blister)",
+    "chocoballs": "Chocoballs",
+    "chocoCream": "ChocoCream (Tube)",
+    "lollipopsBig": "Vitamin Lollipops(Big Box)",
+    "lollipopsMini": "Vitamin Lollipops(Mini Box)",
     "softchewBag": "Vitamin Softchew Bag",
     "softchewCube": "Vitamin Softchew Cube",
     "jellyBag": "Vitamin Jelly Bag"
@@ -150,13 +150,13 @@
   "productDescriptions": {
     "chocobars": "Smart nutrition in every bite.Rich chocolate blended with essential vitamins for daily energy and wellness.",
     "miniChocobars": "Small bites, big benefits.Fun, tasty minis packed with vitamins — available in Multivitamin, Immunity, and Focus formulas.",
-    "chocoballsBlister": "Pop. Enjoy. Nourish.Convenient blister-packed chocoballs filled with vitamins for everyday health.",
+    "chocoballsBlister": "Pop. Enjoy. Nourish. Discover the perfect blend of taste and wellness with convenient blister-packed chocoballs, rich in essential vitamins.",
     "chocoballs": "Sweet taste.Smart nutrition.chocolate balls enriched with essential vitamins  made for kids and adults who love health in every bite.",
     "chocoCream": "Spread the joy. Taste the health.Smooth chocolate cream infused with daily vitamins — fun, nutritious, and delicious.",
     "lollipopsBig": "Premium hard candy lollipops enriched with essential vitamins and minerals, perfect for children and adults seeking a convenient daily dose of essential vitamins.",
     "lollipopsMini": "Smart nutrition, compact size.Mini lollipops in Multivitamin, Immunity, and Focus formulas — each box includes a small gift for added delight.",
     "softchewBag": "Chewy, convenient, and nutritious. Softchew candies packed with essential vitamins and minerals which is a tasty way to support daily health for all ages.",
-    "softchewCube": "softchews that delivering essential nutrients in a convenient, enjoyable format for daily use.",
+    "softchewCube": "Softchews that deliver essential nutrients in a convenient, enjoyable format — crafted to make daily wellness simple, delicious, and part of your everyday routine.",
     "jellyBag": "Premium jelly candies formulated for daily wellness, available in Multivitamin & mineral , Sleep & Calm, Focus— presented in a professional showbox."
   }
 }

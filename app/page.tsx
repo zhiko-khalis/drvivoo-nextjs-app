@@ -91,8 +91,6 @@ export default function App() {
     <div className="min-h-screen bg-white">
       <Navigation />
       <Hero />
-      <About />
-      <Ingredients />
 
       <ProductSection
         id="chocolate"
@@ -126,6 +124,8 @@ export default function App() {
         accentColor="#10B7AF"
       />
 
+      <Ingredients />
+      <About />
       <Footer />
     </div>
   );

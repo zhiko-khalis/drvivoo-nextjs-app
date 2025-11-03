@@ -60,20 +60,8 @@ export function Navigation() {
             >
               {tString('nav.home')}
             </button>
-            <button
-              onClick={() => scrollToSection('about')}
-              className="hover:opacity-70 transition-opacity cursor-pointer"
-              style={{ color: isScrolled ? '#5948D2' : '#fff' }}
-            >
-              {tString('nav.about')}
-            </button>
-            <button
-              onClick={() => scrollToSection('ingredients')}
-              className="hover:opacity-70 transition-opacity cursor-pointer"
-              style={{ color: isScrolled ? '#5948D2' : '#fff' }}
-            >
-              {tString('nav.ingredients')}
-            </button>
+           
+          
             <button
               onClick={() => scrollToSection('chocolate')}
               className="hover:opacity-70 transition-opacity cursor-pointer"
@@ -102,6 +90,29 @@ export function Navigation() {
             >
               {tString('nav.jelly')}
             </button>
+            <button
+              onClick={() => scrollToSection('ingredients')}
+              className="hover:opacity-70 transition-opacity cursor-pointer"
+              style={{ color: isScrolled ? '#5948D2' : '#fff' }}
+            >
+              {tString('nav.ingredients')}
+            </button>
+
+            <button
+              onClick={() => scrollToSection('about')}
+              className="hover:opacity-70 transition-opacity cursor-pointer"
+              style={{ color: isScrolled ? '#5948D2' : '#fff' }}
+            >
+              {tString('nav.about')}
+            </button>
+            <Button
+              className="rounded-full cursor-pointer"
+              style={{ backgroundColor: '#10B7AF' }}
+              onClick={() => scrollToSection('contact')}
+            >
+              {tString('nav.contact')}
+            </Button>
+
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
                 <button
@@ -124,13 +135,6 @@ export function Navigation() {
                 </DropdownMenuItem>
               </DropdownMenuContent>
             </DropdownMenu>
-            <Button
-              className="rounded-full cursor-pointer"
-              style={{ backgroundColor: '#10B7AF' }}
-              onClick={() => scrollToSection('contact')}
-            >
-              {tString('nav.contact')}
-            </Button>
           </div>
 
           {/* Mobile Menu Button */}
