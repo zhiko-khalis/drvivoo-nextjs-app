@@ -159,20 +159,7 @@ export function Navigation() {
             >
               {tString('nav.home')}
             </button>
-            <button
-              onClick={() => scrollToSection('about')}
-              className="block w-full text-center py-2 hover:opacity-70 transition-opacity cursor-pointer"
-              style={{ color: '#5948D2' }}
-            >
-              {tString('nav.about')}
-            </button>
-            <button
-              onClick={() => scrollToSection('ingredients')}
-              className="block w-full text-center py-2 hover:opacity-70 transition-opacity cursor-pointer"
-              style={{ color: '#5948D2' }}
-            >
-              {tString('nav.ingredients')}
-            </button>
+           
             <button
               onClick={() => scrollToSection('chocolate')}
               className="block w-full text-center py-2 hover:opacity-70 transition-opacity cursor-pointer"
@@ -201,6 +188,30 @@ export function Navigation() {
             >
               {tString('nav.jelly')}
             </button>
+            
+            <button
+              onClick={() => scrollToSection('ingredients')}
+              className="block w-full text-center py-2 hover:opacity-70 transition-opacity cursor-pointer"
+              style={{ color: '#5948D2' }}
+            >
+              {tString('nav.ingredients')}
+            </button>
+
+            <button
+              onClick={() => scrollToSection('about')}
+              className="block w-full text-center py-2 hover:opacity-70 transition-opacity cursor-pointer"
+              style={{ color: '#5948D2' }}
+            >
+              {tString('nav.about')}
+            </button>
+            <Button
+              className="w-full rounded-full"
+              style={{ backgroundColor: '#10B7AF' }}
+              onClick={() => scrollToSection('contact')}
+            >
+              {tString('nav.contact')}
+            </Button>
+
             <div className="w-full flex items-center justify-center gap-2 py-2">
               <Globe size={18} style={{ color: '#5948D2' }} />
               <button
@@ -230,13 +241,7 @@ export function Navigation() {
                 Türkçe
               </button>
             </div>
-            <Button
-              className="w-full rounded-full"
-              style={{ backgroundColor: '#10B7AF' }}
-              onClick={() => scrollToSection('contact')}
-            >
-              {tString('nav.contact')}
-            </Button>
+
           </div>
         </div>
       )}
