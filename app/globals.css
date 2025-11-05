@@ -217,3 +217,130 @@ html[dir="rtl"] {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans Arabic", "Helvetica Neue", Arial, sans-serif;
 }
 
+/* Wave Animation */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg) scale(1);
+  }
+  25% {
+    transform: translateY(-20px) rotate(2deg) scale(1.05);
+  }
+  50% {
+    transform: translateY(-10px) rotate(0deg) scale(1.1);
+  }
+  75% {
+    transform: translateY(-20px) rotate(-2deg) scale(1.05);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.9;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.wave-animation {
+  animation: float 8s ease-in-out infinite, pulse 4s ease-in-out infinite;
+  will-change: transform, opacity;
+}
+
+/* Vitamin floating animations */
+@keyframes vitaminFloat {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg) scale(1);
+  }
+  25% {
+    transform: translate(30px, -40px) rotate(5deg) scale(1.1);
+  }
+  50% {
+    transform: translate(-20px, -60px) rotate(-5deg) scale(0.95);
+  }
+  75% {
+    transform: translate(40px, -30px) rotate(3deg) scale(1.05);
+  }
+}
+
+@keyframes vitaminFloat2 {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg) scale(1);
+  }
+  33% {
+    transform: translate(-35px, -50px) rotate(-8deg) scale(1.15);
+  }
+  66% {
+    transform: translate(25px, -45px) rotate(8deg) scale(0.9);
+  }
+}
+
+@keyframes vitaminFloat3 {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg) scale(1);
+  }
+  20% {
+    transform: translate(45px, -25px) rotate(6deg) scale(1.08);
+  }
+  40% {
+    transform: translate(-30px, -55px) rotate(-6deg) scale(0.92);
+  }
+  60% {
+    transform: translate(35px, -35px) rotate(4deg) scale(1.12);
+  }
+  80% {
+    transform: translate(-25px, -20px) rotate(-4deg) scale(0.98);
+  }
+}
+
+@keyframes vitaminRotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.vitamin-float-1 {
+  animation: vitaminFloat 12s ease-in-out infinite;
+  animation-delay: 0s;
+}
+
+.vitamin-float-2 {
+  animation: vitaminFloat2 14s ease-in-out infinite;
+  animation-delay: 1s;
+}
+
+.vitamin-float-3 {
+  animation: vitaminFloat3 10s ease-in-out infinite;
+  animation-delay: 2s;
+}
+
+.vitamin-float-4 {
+  animation: vitaminFloat 15s ease-in-out infinite;
+  animation-delay: 0.5s;
+}
+
+.vitamin-float-5 {
+  animation: vitaminFloat2 13s ease-in-out infinite;
+  animation-delay: 1.5s;
+}
+
+.vitamin-float-6 {
+  animation: vitaminFloat3 11s ease-in-out infinite;
+  animation-delay: 2.5s;
+}
+
+.vitamin-float-7 {
+  animation: vitaminFloat 16s ease-in-out infinite;
+  animation-delay: 3s;
+}
+
+.vitamin-image {
+  position: absolute;
+  will-change: transform;
+  filter: drop-shadow(0 4px 12px rgba(255, 255, 255, 0.4));
+  transition: opacity 0.3s ease;
+}
+

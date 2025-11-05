@@ -12,10 +12,12 @@ export function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <div className="w-12 h-12 rounded-full bg-white/20 backdrop-blur-sm flex items-center justify-center">
-                <span className="text-white">Dr</span>
-              </div>
-              <span className="text-2xl">Dr.VIVO</span>
+              <img
+                src="/DrVIVO Logo.svg"
+                alt="Dr.VIVO Logo"
+                className="w-12 h-12 rounded-full object-cover"
+              />
+              <span className="text-xl">Dr.VIVO</span>
             </div>
             <p className="text-white/80 mb-4">
               {tString('footer.description')}
