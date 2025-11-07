@@ -16,31 +16,31 @@ export default function App() {
     {
       name: tString('productNames.chocobars'),
       image: '/images/IMG_3551.JPG',
-      images: ['/images/IMG_3551.JPG', '/images/IMG_3552.PNG', '/images/IMG_3553.PNG'],
+      images: ['/images/IMG_3551.JPG', '/images/Chocobar_v3.jpg', '/images/chocobar RG.jpg'],
       description: tString('productDescriptions.chocobars'),
     },
     {
       name: tString('productNames.miniChocobars'),
-      image: '/images/IMG_3552.PNG',
-      images: ['/images/IMG_3552.PNG', '/images/IMG_3551.JPG', '/images/IMG_3553.PNG'],
+      image: '/images/minichocbar.PNG',
+      images: ['/images/minichocbar.PNG','/images/IMG_3552.PNG','/images/minichocobar3.png'],
       description: tString('productDescriptions.miniChocobars'),
     },
     {
       name: tString('productNames.chocoballsBlister'),
-      image: '/images/IMG_3553.PNG',
-      images: ['/images/IMG_3553.PNG', '/images/IMG_3551.JPG', '/images/IMG_3552.PNG'],
+      image: '/images/chocoballs blister.png',
+      images: ['/images/chocoballs blister.png','/images/chocoballs blister2.jpg'],
       description: tString('productDescriptions.chocoballsBlister'),
     },
     {
       name: tString('productNames.chocoballs'),
-      image: '/images/IMG_3551.JPG',
-      images: ['/images/IMG_3551.JPG', '/images/IMG_3552.PNG', '/images/IMG_3553.PNG'],
+      image: '/images/chocoballs.png',
+      images: ['/images/chocoballs.png','/images/chocoballs2.jpg', '/images/Chocoball5.png', '/images/chocoballs3.jpg',],
       description: tString('productDescriptions.chocoballs'),
     },
     {
       name: tString('productNames.chocoCream'),
-      image: '/images/IMG_3552.PNG',
-      images: ['/images/IMG_3552.PNG', '/images/IMG_3551.JPG', '/images/IMG_3553.PNG'],
+      image: '/images/chococreamss.png',
+      images: ['/images/chococreamss.png',],
       description: tString('productDescriptions.chocoCream'),
     },
   ];
@@ -49,14 +49,14 @@ export default function App() {
   const hardCandyProducts = [
     {
       name: tString('productNames.lollipopsBig'),
-      image: '/images/IMG_3553.PNG',
-      images: ['/images/IMG_3553.PNG', '/images/IMG_3552.PNG', '/images/IMG_3551.JPG'],
+      image: '/images/lollipops bigbox.png',
+      images: ['/images/lollipops bigbox.png',],
       description: tString('productDescriptions.lollipopsBig'),
     },
     {
       name: tString('productNames.lollipopsMini'),
-      image: '/images/IMG_3551.JPG',
-      images: ['/images/IMG_3551.JPG', '/images/IMG_3553.PNG', '/images/IMG_3552.PNG'],
+      image: '/images/Vitamin_Lollipop_.png',
+      images: ['/images/Vitamin_Lollipop_.png',],
       description: tString('productDescriptions.lollipopsMini'),
     },
   ];
@@ -65,14 +65,14 @@ export default function App() {
   const softCandyProducts = [
     {
       name: tString('productNames.softchewBag'),
-      image: '/images/IMG_3552.PNG',
-      images: ['/images/IMG_3552.PNG', '/images/IMG_3553.PNG', '/images/IMG_3551.JPG'],
+      image: '/images/softchew bag.png',
+      images: ['/images/softchew bag.png',],
       description: tString('productDescriptions.softchewBag'),
     },
     {
       name: tString('productNames.softchewCube'),
-      image: '/images/IMG_3553.PNG',
-      images: ['/images/IMG_3553.PNG', '/images/IMG_3552.PNG', '/images/IMG_3551.JPG'],
+      image: '/images/softchew cube.png',
+      images: ['/images/softchew cube.png','/images/softchew cube2.png'],
       description: tString('productDescriptions.softchewCube'),
     },
   ];

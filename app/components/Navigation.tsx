@@ -602,6 +602,11 @@ export function Navigation() {
                 </div>
               )}
             </div>
+            <img
+              src="/Better Choice.png"
+              alt="Contact"
+              className="w-12 h-14"
+            />
             <Button
               className="rounded-full cursor-pointer"
               style={{ backgroundColor: '#10B7AF' }}
@@ -733,6 +738,11 @@ export function Navigation() {
                 </div>
               )}
             </div>
+            <img
+              src="/Better Choice.png"
+              alt="Contact"
+              className="w-12 h-14 mx-auto"
+            />
             <Button
               className="w-full rounded-full"
               style={{ backgroundColor: '#10B7AF' }}
@@ -769,6 +779,7 @@ export function Navigation() {
               >
                 Türkçe
               </button>
+              
             </div>
 
           </div>

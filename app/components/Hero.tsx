@@ -230,7 +230,31 @@ export function Hero() {
               right: '25%',
             }}
           />
+          
+         
         </div>
+
+         {/* Swiss Flag */}
+         <div
+            className="absolute vitamin-image vitamin-float-8 w-28 sm:w-32 md:w-40 h-auto"
+            style={{
+              // top: '5%',
+              // right: '5%',
+              bottom: '5%',
+              right: '7%',
+            }}
+          >
+            <Image
+              src="/swissQuality.png"
+              alt="Swiss Flag"
+              width={150}
+              height={150}
+              className="drop-shadow-lg"
+              style={{
+                filter: 'drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2))',
+              }}
+            />
+          </div>
       </div>
     </section>
   );

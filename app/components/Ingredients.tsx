@@ -28,7 +28,7 @@ export function Ingredients() {
   }, [expandedCategory]);
 
   const categoryKeys = ['multivitamins', 'immunity', 'sleep', 'focus'] as const;
-  const emojis = ['🧬', '🛡', '🌙', '⚡'];
+  const emojis = ['⭐', '🛡', '😴', '🧠'];
   const accentColors = ['#5948D2', '#10B7AF', '#5948D2', '#10B7AF'];
 
   const getCategoryData = (key: typeof categoryKeys[number], index: number) => {
