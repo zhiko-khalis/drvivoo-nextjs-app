@@ -8,10 +8,14 @@ import { useLanguage } from '../contexts/LanguageContext';
 export function Hero() {
   const { tString } = useLanguage();
   const backgroundImages = [
-    'url(https://images.unsplash.com/photo-1660819882138-a286c97c7669?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwdml0YW1pbnMlMjB3ZWxsbmVzc3xlbnwxfHx8fDE3NjEyMjgzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral)',
-    'url(/images/IMG_3551.JPG)',
+    'url(/images/Chocobar_v3.jpg)',
     'url(/images/IMG_3552.PNG)',
-    // 'url(/images/IMG_3553.PNG)',
+    'url(/images/chocoballs3.jpg)',
+    'url(/images/softchew-cube2.png)',
+    'url(/images/softchew-bag.png)',
+    'url(/images/IMG_3551.JPG)',
+    'url(/images/chocoballs2.jpg)',
+    'url(/images/minichocobar3.png)',
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -249,6 +253,28 @@ export function Hero() {
               alt="Swiss Flag"
               width={150}
               height={150}
+              className="drop-shadow-lg"
+              style={{
+                filter: 'drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2))',
+              }}
+            />
+          </div>
+
+           {/* better choice */}
+         <div
+            className="absolute vitamin-image vitamin-float-8 w-28 sm:w-32 md:w-40 h-auto"
+            style={{
+              // top: '5%',
+              // right: '5%',
+              bottom: '5%',
+              left: '9.5%',
+            }}
+          >
+            <Image
+              src="/Better Choice.png"
+              alt="Swiss Flag"
+              width={80}
+              height={80}
               className="drop-shadow-lg"
               style={{
                 filter: 'drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2))',
